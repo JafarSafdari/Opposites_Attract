@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opposites_Attract", "Opposites_Attract\Opposites_Attract.csproj", "{2DA64687-A1B8-4BBB-97BD-6F5E3C2CB4CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTest", "NTest\NTest.csproj", "{6E8B83FB-0BFD-4EFA-B04A-5CB825CA1EE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XTest", "XTest\XTest.csproj", "{9CD95304-D504-4A1E-8733-2D90E49D779A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DA64687-A1B8-4BBB-97BD-6F5E3C2CB4CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA64687-A1B8-4BBB-97BD-6F5E3C2CB4CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA64687-A1B8-4BBB-97BD-6F5E3C2CB4CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA64687-A1B8-4BBB-97BD-6F5E3C2CB4CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E8B83FB-0BFD-4EFA-B04A-5CB825CA1EE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E8B83FB-0BFD-4EFA-B04A-5CB825CA1EE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E8B83FB-0BFD-4EFA-B04A-5CB825CA1EE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E8B83FB-0BFD-4EFA-B04A-5CB825CA1EE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CD95304-D504-4A1E-8733-2D90E49D779A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CD95304-D504-4A1E-8733-2D90E49D779A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CD95304-D504-4A1E-8733-2D90E49D779A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CD95304-D504-4A1E-8733-2D90E49D779A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
